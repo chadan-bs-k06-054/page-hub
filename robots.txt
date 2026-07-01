@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chadan-bs-k06-054.github.io/page-hub/sitemap.xml
